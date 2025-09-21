@@ -4,8 +4,8 @@ import time
 from collections import defaultdict 
 from typing import Dict 
 
+from config import app
 
-app = FastAPI() 
 
 
 
